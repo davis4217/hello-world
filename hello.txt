@@ -1,3 +1,7 @@
 "Hello World"
 
 What a unique starter project!
+
+Never seen this before *cough*
+
+Figure out the git commit command
